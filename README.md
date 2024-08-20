@@ -5,9 +5,17 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+software engineering is the art of using principles,methods and tools to design ,develop ,test and maintain software systems
+importance in technology industry is that it enables creation of software application and sytems that powers a crucial role in the heathcare system,entertainment,commerce and communication
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+the term software engineering was coined during the NATO software engineering conference in germisch,germany,in 1968
+The conference was pivotal in addressing software crisis where the complexity of software development was outpacing the ability to manage it effectively
+INTRODUCTION to object oriented proggramming language-introduced a paradigm shift from procedural proggramming
+The agile manifestation -emphasized iterative development collaboration and responsiveness to change.
+
+
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
