@@ -19,9 +19,13 @@ The agile manifestation -emphasized iterative development collaboration and resp
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+1.Requirement gathering and analysis-involves collecting and documenting needs and expectations of stakeholders
+2.System Analysis-the requirements are translated into a detailed system architecture and design
+3.Implementation-this phase involves the actual development of the software,,,developers write the code based on the design spesification,imlementing the systems functionality
+4.Testing-focuses on identifying and fixing defects and verifing that the software meets the requirements specified earlier
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
@@ -40,6 +44,8 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+prompt engineering is the art of crafting questions and instructions in a specific and concise manner to assist an AI tool to give the desired results
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+EXAMPLE  explain programming language  instead explain c++ as a programming language
